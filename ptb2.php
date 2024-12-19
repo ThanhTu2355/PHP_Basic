@@ -31,8 +31,4 @@ if ($a == 0) {
             echo "Phương trình bậc 2 có hai nghiệm phân biệt: x1 = $x1, x2 = $x2<br>";
         }
     }
-
-
-    //Git push sau khi có sự thay đổi code
-
 ?>
